@@ -1,0 +1,6 @@
+c:\users\manish.mishra\documents\visual studio 2013\Projects\DataDerivanProject\DataDerivanProject\bin\Debug\DataDerivanProject.dll
+c:\users\manish.mishra\documents\visual studio 2013\Projects\DataDerivanProject\DataDerivanProject\bin\Debug\DataDerivanProject.pdb
+c:\users\manish.mishra\documents\visual studio 2013\Projects\DataDerivanProject\DataDerivanProject\obj\Debug\DataDerivanProject.csprojResolveAssemblyReference.cache
+c:\users\manish.mishra\documents\visual studio 2013\Projects\DataDerivanProject\DataDerivanProject\obj\Debug\DataDerivanProject.dll
+c:\users\manish.mishra\documents\visual studio 2013\Projects\DataDerivanProject\DataDerivanProject\obj\Debug\DataDerivanProject.pdb
+c:\users\manish.mishra\documents\visual studio 2013\Projects\DataDerivanProject\DataDerivanProject\bin\Debug\DataSet.csv
